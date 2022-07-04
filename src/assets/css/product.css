@@ -1,0 +1,107 @@
+:root {
+    --white-1: #ffffff;
+    --white-2: #eeeeee;
+    --white-3: #ecf1f4;
+    --black: #000909;
+    --dark: #0A0F16;
+    --subtleGreen: #90BCB7;
+    --darkGreen: #082D28;
+    --darkTosca: #569B9B;
+    --tosca-1: #00FFD1;
+    --tosca-2: #27D7D7;
+    --tosca-3: #3FE8FF;
+    --deepTosca-1: #016A6A;
+    --deepTosca-2: #02A6A6;
+    --grey-1: #888888;
+    --grey-2: #666666;
+}
+
+.bg-black-1 {
+    background-color: var(--black);
+}
+
+.bg-dark {
+    background-color: var(--dark);
+}
+
+.text-40 {
+    font-size: 40px;
+}
+
+.text-28 {
+    font-size: 28px;
+}
+
+.text-24 {
+    font-size: 24px;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+.text-white-1 {
+    color: var(--white-1);
+}
+
+.text-white-2 {
+    color: var(--white-2);
+}
+
+.text-grey-1 {
+    color: var(--grey-1);
+}
+
+.text-grey-2 {
+    color: var(--grey-2);
+}
+
+.text-darkGreen {
+    color: var(--darkGreen);
+}
+
+.text-subtleGreen {
+    color: var(--subtleGreen);
+}
+
+.bg-white-2 {
+    background-color: var(--white-2);
+}
+
+@media(min-width: 768px) {
+    .mt-px442 {
+        margin-top: 442px;
+    }
+}
+
+.leading-px40 {
+    line-height: 40px;
+}
+
+.leading-px36 {
+    line-height: 36px;
+}
+
+.z-min100 {
+    z-index: -100;
+}
+
+.z-min10 {
+    z-index: -10;
+}
+
+.max-w-screen {
+    max-width: 1440px;
+}
+
+.max-w-px400 {
+    max-width: 400px;
+}
+
+.w-px580 {
+    width: 580px;
+}
+
+.h-780 {
+    height: 780px;
+}

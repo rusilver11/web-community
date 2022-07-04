@@ -1,0 +1,47 @@
+.header-2-2 .btn-outline {
+    border: 1px solid #555b61;
+    color: #555b61;
+    transition: 0.3s;
+  }
+
+  .header-2-2 .btn-outline:hover {
+    border: 1px solid #27c499;
+    color: #27c499;
+    transition: 0.3s;
+  }
+
+  .header-2-2 .btn-outline:hover div path {
+    fill: #27c499;
+    transition: 0.3s;
+  }
+
+  .header-2-2 .btn-fill {
+    border: 1px solid #27c499;
+    background-color: #27c499;
+    transition: 0.3s;
+  }
+
+  .header-2-2 .nav-text {
+    color: #1d1e3c;
+    transition: 0.2s;
+  }
+
+  .header-2-2 .title-font {
+    color: #272e35;
+    line-height: 1.2
+  }
+
+  .header-2-2 .navigation a:hover,
+  .header-2-2 .active::after {
+    font-weight: 600;
+    transition: 0.3s;
+  }
+
+  .header-2-2 .small-text {
+    color: #27c499;
+  }
+
+  .header-2-2 .btn-try {
+    background-color: #27c499;
+    transition: 0.3s;
+  }

@@ -1,0 +1,167 @@
+:root {
+    --light-1: #FFFFFF;
+    --light-2: #F9FAFE;
+    --light-3: #FAFAFD;
+
+    --dark-1: #16171C;
+    --dark-2: #494C57;
+    --dark-3: #171717;
+    --dark-4: #202020;
+    --dark-5: #151515;
+    --dark-6: #0F0F0F;
+
+    --subtleGrey-1: #F8F8FC;
+    --subtleGrey-2: #989DB1;
+    --subtleGrey-3: #8D8F98;
+    --subtleGrey-4: #9A9A9A;
+    --subtleGrey-5: #CED2DE;
+
+    --subtleBlue-1: #34B3FF;
+    --subtleBlue-2: #518CFF;
+    --subtleBlue-3: #4376DB;
+    --subtleBlue-4: #CCE3FF;
+
+    --subtleGreen-1: #00B67A;
+
+    --lemonYellow: #F2FF57;
+    --deepGrey: #2E2E2E;
+    --navy-1: #313E60;
+    --navy-2: #1C3055;
+}
+
+.font-display {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.text-light-1 {
+    color: var(--light-1);
+}
+
+.text-light-2 {
+    color: var(--light-2);
+}
+
+.text-light-3 {
+    color: var(--light-3);
+}
+
+.text-dark-1 {
+    color: var(--dark-1);
+}
+
+.text-dark-2 {
+    color: var(--dark-2);
+}
+
+.text-dark-3 {
+    color: var(--dark-3);
+}
+
+.text-dark-4 {
+    color: var(--dark-4);
+}
+
+.text-dark-5 {
+    color: var(--dark-5);
+}
+
+.text-subtleBlue-1 {
+    color: var(--subtleBlue-1);
+}
+
+.text-subtleBlue-4 {
+    color: var(--subtleBlue-4);
+}
+
+.text-subtleGrey-1 {
+    color: var(--ssubtleGrey-1);
+}
+
+.text-subtleGrey-2 {
+    color: var(--subtleGrey-2);
+}
+
+.text-subtleGrey-3 {
+    color: var(--subtleGrey-3);
+}
+
+.text-subtleGrey-4 {
+    color: var(--subtleGrey-4);
+}
+
+.text-subtleGrey-5 {
+    color: var(--subtleGrey-5);
+}
+
+.bg-light-1 {
+    background-color: var(--light-1);
+}
+
+.bg-light-2 {
+    background-color: var(--light-2);
+}
+
+.bg-light-3 {
+    background-color: var(--light-3);
+}
+
+.bg-dark-6 {
+    background-color: var(--dark-6);
+}
+
+.bg-subtleGreen {
+    background-color: var(--subtleGreen-1);
+}
+
+.bg-subtleGrey-1 {
+    background-color: var(--subtleGrey-1);
+}
+
+.bg-deepGrey {
+    background-color: var(--deepGrey);
+}
+
+.bg-lemonYellow {
+    background-color: var(--lemonYellow);
+}
+
+.bg-navy-1 {
+    background-color: var(--navy-1);
+}
+
+.w-screen-custom {
+    width: 1560px;
+}
+
+.ring-subtleGrey-3 {
+    --tw-ring-opacity: 1;
+    --tw-ring-color: rgba(141, 143, 152, var(--tw-ring-opacity));
+}
+
+.text-px20 {
+    font-size: 20px;
+}
+
+.text-px32 {
+    font-size: 32px;
+}
+
+.mb-18 {
+    margin-bottom: 72px;
+}
+
+.ml-18 {
+    margin-left: 72px;
+}
+
+.mt-18 {
+    margin-top: 72px;
+}
+
+.-mt-13 {
+    margin-top: -52px;
+}
+
+.bg-card-professional {
+    background: linear-gradient(180deg, #518CFF 0%, #4376DB 100%);
+}
